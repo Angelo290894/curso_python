@@ -10,3 +10,4 @@ nome_completo = "Angelo Job"
 #print("Seu noem separado por tracos fica: ", " ".join(nome))
 print("seu nome separado", nome_completo.split())
 print("tem ' An' no seu nome?", "an" in nome_completo.lower() )
+cahcoor
